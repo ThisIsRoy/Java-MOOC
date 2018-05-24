@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-058.RecurringWord" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RecurringWord" />
+    <module name="week3-058.RecurringWord" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

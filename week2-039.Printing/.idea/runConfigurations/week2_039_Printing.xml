@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-039.Printing" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Printing" />
+    <module name="week2-039.Printing" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

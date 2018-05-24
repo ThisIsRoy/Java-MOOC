@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-008.Adder" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Adder" />
+    <module name="week1-008.Adder" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

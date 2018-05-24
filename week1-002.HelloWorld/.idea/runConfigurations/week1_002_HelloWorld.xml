@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-002.HelloWorld" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Greeter" />
+    <module name="week1-002.HelloWorld" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-067.TheVariance" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Variance" />
+    <module name="week3-067.TheVariance" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
